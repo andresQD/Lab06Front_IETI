@@ -1,12 +1,6 @@
-Deploy firebase: https://taks-planner-app-6d910.firebaseapp.com/
+## Pruebas
 
-# Credenciales:
-* email:andres@mail.com 
-* password: afqd
-
-Una vez realice el LogIn será redirigido a: https://taskplannerproject.herokuapp.com/tasks
-
-
+![front](https://user-images.githubusercontent.com/48091585/94833537-da93c700-03d4-11eb-8978-0c544725417d.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
